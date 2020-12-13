@@ -1060,7 +1060,7 @@ body.darkMode .crearGif .pagination .step {
     background: url("/resources/assets/icon-download-hover.svg") center no-repeat;
   }
   .gif_container .maximize {
-    background: url("/resources/assets/icon-max-normal.svg") center no-repeat;
+    background: url("/resources/assets/maxNormal.svg") center no-repeat;
   }
   .gif_container .maximize:hover {
     background: url("/resources/assets/icon-max-hover.svg") center no-repeat;
